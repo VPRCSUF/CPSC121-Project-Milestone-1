@@ -1,5 +1,7 @@
 # TuffyScheduler Milestone 1
 
+# THIS IS A COPY OF THE READ ME FROM THE ORIGINAL PROJECT MILESTONE.
+
 This is milestone 1 of the [TuffyScheduler Project](https://docs.google.com/document/d/1439ruL-xNEz58-ND_3Li7nthr1om_dwXJ3zQlB42oPI/edit?usp=sharing).
 
 # Requirements
